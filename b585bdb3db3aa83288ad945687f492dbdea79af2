@@ -16,6 +16,24 @@
       "revId": "b585bdb3db3aa83288ad945687f492dbdea79af2",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "980094d3_5bad6f88",
+        "filename": "GerritTest.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1016705
+      },
+      "writtenOn": "2019-07-05T09:44:52Z",
+      "side": 1,
+      "message": "\u003e Please check\nVerified",
+      "parentUuid": "f5332a4e_2d4c73ec",
+      "revId": "b585bdb3db3aa83288ad945687f492dbdea79af2",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
