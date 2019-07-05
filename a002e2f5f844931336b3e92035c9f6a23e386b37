@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "50657e9d_9ea9fb3d",
+        "filename": "GerritTest.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1016705
+      },
+      "writtenOn": "2019-07-05T09:40:48Z",
+      "side": 1,
+      "message": "Looking good",
+      "revId": "a002e2f5f844931336b3e92035c9f6a23e386b37",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
